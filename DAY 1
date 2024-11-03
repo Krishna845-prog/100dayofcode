@@ -1,0 +1,6 @@
+CREATING A BAND GENERATOR USING PYTHON
+
+print("welcome to band generator")
+name = input("what is the city you live in?\n")
+pet = input("what is the name of your pet?\n")
+print("The band generator is:\n " + name + pet )
